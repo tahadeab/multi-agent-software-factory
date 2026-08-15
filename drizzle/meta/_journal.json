@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1786614703562,
+      "tag": "0000_rainy_sasquatch",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1786615030705,
+      "tag": "0001_clammy_richard_fisk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1786619577285,
+      "tag": "0002_chemical_lake",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1786621488180,
+      "tag": "0003_chubby_raza",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1786626831809,
+      "tag": "0004_slippery_johnny_storm",
+      "breakpoints": true
+    }
+  ]
+}
